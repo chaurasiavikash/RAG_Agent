@@ -125,9 +125,9 @@ MIT License - Free to use, modify, and distribute
 
 ## 📞 Connect
 
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: [Your Professional Email]
-- **Personal Website**: [Your Portfolio Site]
+- **LinkedIn**:  (https://www.linkedin.com/in/chaurasiavikash/)
+- **Email**: [chaurasiavik@gmail.com]
+- **Personal Website**:  (https://chaurasiavikash.github.io/)
 
 ---
 
